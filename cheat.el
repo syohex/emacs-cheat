@@ -1,4 +1,4 @@
-;;; cheat.el --- cheat command interface of Emacs
+;;; cheat.el --- cheat command from Emacs
 
 ;; Copyright (C) 2015 by Syohei YOSHIDA
 
@@ -22,7 +22,7 @@
 
 ;;; Commentary:
 
-;; `cheat' command interface of Emacs
+;; `cheat' command from Emacs
 
 ;;; Code:
 
